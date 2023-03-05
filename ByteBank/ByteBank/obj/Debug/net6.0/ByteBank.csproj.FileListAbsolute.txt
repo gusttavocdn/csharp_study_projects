@@ -1,0 +1,15 @@
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ByteBank
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ByteBank.deps.json
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ByteBank.runtimeconfig.json
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ByteBank.dll
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ref/ByteBank.dll
+/home/otaku/Desktop/projects/ByteBank/ByteBank/bin/Debug/net6.0/ByteBank.pdb
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.csproj.AssemblyReference.cache
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.AssemblyInfoInputs.cache
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.AssemblyInfo.cs
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.csproj.CoreCompileInputs.cache
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.dll
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ref/ByteBank.dll
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.pdb
+/home/otaku/Desktop/projects/ByteBank/ByteBank/obj/Debug/net6.0/ByteBank.genruntimeconfig.cache
